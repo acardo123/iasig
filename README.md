@@ -4,7 +4,9 @@ Portraits generated in ComfyUI using flux, run on Google Colab.
 
 Contents:
 Portrait Packs for Pathfinder: Kingmaker and Pathfinder: Wrath of the Righteous
+
 ComfyUI Output
+
 ComfyUI Workflow
 
 https://www.nexusmods.com/pathfinderkingmaker/mods/339
