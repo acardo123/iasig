@@ -3,10 +3,8 @@ This is the repository for the "It's Always Sunny in Golarion" Mod Project, an a
 Portraits generated in ComfyUI using flux, run on Google Colab.
 
 Contents:
-Portrait Packs for Pathfinder: Kingmaker and Pathfinder: Wrath of the Righteous
-
-ComfyUI Output
-
+Portrait Packs for Pathfinder: Kingmaker and Pathfinder: Wrath of the Righteous<br/>
+ComfyUI Output<br/>
 ComfyUI Workflow
 
 https://www.nexusmods.com/pathfinderkingmaker/mods/339
