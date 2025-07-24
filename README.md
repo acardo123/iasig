@@ -10,7 +10,7 @@ ComfyUI Workflow
 https://www.nexusmods.com/pathfinderkingmaker/mods/339
 https://www.nexusmods.com/pathfinderkingmaker/mods/340
 
-Long term goals include
--Voice pack
--Custom dialogue
+Long term goals include<br/>
+-Voice pack<br/>
+-Custom dialogue<br/>
 -Custom quests
