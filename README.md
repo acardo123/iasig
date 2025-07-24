@@ -7,7 +7,7 @@ Portrait Packs for Pathfinder: Kingmaker and Pathfinder: Wrath of the Righteous<
 ComfyUI Output<br/>
 ComfyUI Workflow
 
-https://www.nexusmods.com/pathfinderkingmaker/mods/339
+https://www.nexusmods.com/pathfinderkingmaker/mods/339 <br/>
 https://www.nexusmods.com/pathfinderkingmaker/mods/340
 
 Long term goals include<br/>
